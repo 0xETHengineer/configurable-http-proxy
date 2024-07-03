@@ -12,7 +12,7 @@
     "commander": "~7.2",
     "http-proxy": "^1.18.1",
     "prom-client": "14.2.0",
-    "strftime": "~0.10.0",
+    "strftime": "~0.10.3",
     "winston": "~3.10.0"
   },
   "devDependencies": {
